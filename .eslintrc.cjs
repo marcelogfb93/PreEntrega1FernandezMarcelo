@@ -16,5 +16,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'react-refres/only-export-components': 'warn',
+    'react/prop-types': 0
   },
 }

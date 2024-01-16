@@ -1,4 +1,4 @@
-import Cartmate from './assets/Carmate.png'
+import Cartmate from './assets/mate.jpg'
 
 const CartWidget = () =>{
     return (
